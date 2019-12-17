@@ -8,3 +8,5 @@ In this game the user recieves a RGB value and needs to discover which square re
 * CSS Animations
 * Two Different Difficulties
 * Random Color Generator
+
+[Live Demo](https://riltonfranzonee.github.io/the-color-game/)
